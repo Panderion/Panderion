@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Panderion
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Web Development / Mobile Development
+- 🌱 I’m currently learning TypeScript and Kotlin
 
 
 <!---
